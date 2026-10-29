@@ -1,0 +1,4 @@
+name,odds_api_key,commission,enabled
+Smarkets,smarkets,0.02,yes
+Betfair Exchange,betfair_ex_uk,0.05,yes
+Matchbook,matchbook,0.02,yes

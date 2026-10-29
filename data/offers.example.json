@@ -1,0 +1,20 @@
+[
+  {
+    "id": "hills-bet10-get30",
+    "bookie": "williamhill",
+    "bet_type": "qualifier",
+    "stake": 10,
+    "min_odds": 1.5,
+    "sports": ["soccer_epl"],
+    "notes": "Bet £10, get £30 in free bets. Qualifying bet first."
+  },
+  {
+    "id": "skybet-free-bet-5",
+    "bookie": "skybet",
+    "bet_type": "free_bet_snr",
+    "stake": 5,
+    "min_odds": 1.01,
+    "sports": ["soccer_epl"],
+    "expires": "2026-11-05T23:59:00+00:00"
+  }
+]
